@@ -1,0 +1,28 @@
+{
+  "cuentos": [
+    {
+      "titulo": "la sirenita",
+      "archivo": "la-sirenita.pdf"
+    },
+    {
+      "titulo": "Caperucita Roja",
+      "archivo": "caperusita-roja.pdf"
+    },
+    {
+      "titulo": "El gato con botas",
+      "archivo": "el-gato-con-botas.pdf"
+    },
+    {
+      "titulo": "Gulliver en el pais de los gigantes",
+      "archivo": "gulliver-en-el-pais-de-los-gigantes.pdf"
+    },
+    {
+      "titulo": "El soldadito de plomo",
+      "archivo": "el-soldado-de-plomo.pdf"
+    },
+    {
+      "titulo": "Hansel y Gretel",
+      "archivo": "hansel-y-gretel.pdf"
+    }
+  ]
+}
