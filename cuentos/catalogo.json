@@ -23,6 +23,10 @@
     {
       "titulo": "Hansel y Gretel",
       "archivo": "hansel-y-gretel.pdf"
+    },
+    {
+      "titulo": "pulgarcito",
+      "archivo": "pulgarcito.pdf"
     }
   ]
 }
